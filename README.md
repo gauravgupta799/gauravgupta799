@@ -1,5 +1,8 @@
 ### Hi Developers 👋
-I'm a MERN Stack web developer.
+I'm a MERN Stack web developer. The crossover between design and programming has always been of interested of me.I have a wide range of skills that include back-end development technologies (NodeJs, Python), front-end development ( ReactJs, HTML5, CSS3, Javascript,Bootstrap3&4 ,Responsive, UX), database(MongoDB,Mysql).
+
+
+Adobe XD Figma Bootstrap Java PHP HTML5 CSS3 NodeJS React Angular Azure MySQL MongoDB
 
 <!--
 **gauravgupta799/gauravgupta799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
