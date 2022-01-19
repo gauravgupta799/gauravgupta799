@@ -1,16 +1,14 @@
-<h1 align="center">Hi Developers <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gaurav</h1>
-<h3 >I'm a MERN stack web developer from India.The crossover between design and programming has always been of interested of me. I have a wide range of skills that include back-end development technologies (NodeJs, Python), front-end development ( ReactJs, HTML5, CSS3, Javascript,Bootstrap3&4 ,Responsive, UX), database(MongoDB,Mysql).</h3>
+<h1 align="center">Hi Developers <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h3 >I'm a MERN stack web developer from India.The crossover between design and programming has always been of interested of me. I have a wide range of skills that include back-end development technologies (NodeJs,ExpressJs, Python), front-end development ( ReactJs, HTML5, CSS3, Javascript,Bootstrap3&4 ), database(MongoDB,Mysql).</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on developing **[ZOMATO APP]()**
+- 🔭 I’m currently working on developing *[ZOMATO APP](https://github.com/gauravgupta799/edu_internship/tree/mycode/reactapp)**
 
 - 🌱 I’m currently learning **Reactjs and React Native** 
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio]()**
 
 - 📫 How to reach me **gauravgupta756593@gmail.com**
 
