@@ -1,4 +1,4 @@
-<h1 align="center">Hi Developers <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi Developers <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"></h1>
 <h3 ><i>I'm a MERN stack web developer from India.The crossover between design and programming has always been of interested of me. I have a wide range of skills that include back-end development technologies (NodeJs, ExpressJs, Python), front-end technologies and frameworks ( ReactJs, Redux, HTML5, CSS3, Javascript, Bootstrap3&4 ), database(MongoDB).</i></h3>
 
 
