@@ -4,10 +4,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on developing *[ZOMATO APP](https://github.com/gauravgupta799/edu_internship/tree/mycode/reactapp)**
-
-- 🌱 I’m currently learning **Reactjs and React Native** 
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **gauravgupta756593@gmail.com**
