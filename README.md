@@ -1,18 +1,18 @@
 <h1 align="center">Hi Developers <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
-<h3>
+<p>
   I'm a <strong>frontend developer</strong> from India with a passion for the crossover between <strong> design and programming</strong>. I have expertise in <strong>frontend technologies</strong> such as <strong>HTML5, CSS3, JavaScript, jQuery, React.js, Redux, 
   Bootstrap, Tailwind CSS, Sass/Less, and Gulp.js</strong>. Additionally, I have experience with <strong>backend development</strong> using <strong>Node.js, Express.js</strong>, along with database management in <strong>MongoDB</strong>.
-</h3>
+</p>
 
-<h3>
+<p>
   I also have <strong>working knowledge of WordPress</strong>, including custom theme development and site customization. My skill set extends to <strong>responsive design principles</strong> and <strong>mobile-first development</strong>, ensuring seamless user 
   experiences across different devices, and basic understanding of SEO to optimize websites for better search engine visibility. Furthermore, I specialize in <strong>JavaScript animation libraries</strong> like <strong>GSAP, Anime.js, and Lottie.js</strong>, enabling me 
   to create dynamic and visually engaging web experiences.
-</h3>
+</p>
 
-<h3>
+<p>
   With a strong foundation in frontend technologies, I focus on building interactive, user-friendly, and performance-optimized web applications.
-</h3>
+</p>
 
 
 ## 🙋‍♂️ About Me
