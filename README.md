@@ -1,6 +1,6 @@
 <h1 align="center">Hi Developers <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
 <p style="font-size:16px;">
-  I'm a <strong>frontend developer</strong> from India with a passion for the crossover between <strong> design and programming</strong>. I have expertise in <strong>frontend technologies</strong> such as <strong>HTML5, CSS3, JavaScript, jQuery, React.js, Redux, 
+  I'm a <strong>Frontend Developer</strong> from India with a passion for the crossover between <strong> design and programming</strong>. I have expertise in <strong>frontend technologies</strong> such as <strong>HTML5, CSS3, JavaScript, jQuery, React.js, Redux, 
   Bootstrap, Tailwind CSS, Sass/Less, and Gulp.js</strong>. Additionally, I have experience with <strong>backend development</strong> using <strong>Node.js, Express.js</strong>, along with database management in <strong>MongoDB</strong>.
 </p>
 
