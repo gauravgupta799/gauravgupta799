@@ -14,7 +14,6 @@
   With a strong foundation in frontend technologies, I focus on building interactive, user-friendly, and performance-optimized web applications.
 </p>
 
-
 ## 🙋‍♂️ About Me
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
@@ -58,7 +57,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
 <br/>
 <br/>
 
@@ -73,7 +71,7 @@
 <img src="https://i.ibb.co/wYJdhph/icons8-github-100.png" alt="icons8-github-100" width="45px"/>
 </a>
 <a href = "https://www.linkedin.com/in/gauravgupta88/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://x.com/guptagaurav8989"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/gaurav_gupta799"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
