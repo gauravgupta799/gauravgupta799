@@ -1,9 +1,18 @@
 <h1 align="center">Hi Developers <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
-<h3 ><i>I'm a frontend developer from India with a passion for the crossover between design and programming. I have expertise in frontend technologies such as HTML5, CSS3, JavaScript, jQuery, React.js, Redux, Bootstrap, Tailwind CSS, Sass/Less, and Gulp.js. Additionally, I have experience with backend development using Node.js, Express.js, and Python, along with database management in MongoDB.
+<h3>
+  I'm a <strong>frontend developer</strong> from India with a passion for the crossover between <strong> design and programming</strong>. I have expertise in <strong>frontend technologies</strong> such as <strong>HTML5, CSS3, JavaScript, jQuery, React.js, Redux, 
+  Bootstrap, Tailwind CSS, Sass/Less, and Gulp.js</strong>. Additionally, I have experience with <strong>backend development</strong> using <strong>Node.js, Express.js</strong>, along with database management in <strong>MongoDB</strong>.
+</h3>
 
-I also have working knowledge of WordPress, including custom theme development and site customization. My skill set extends to responsive design, ensuring seamless user experiences across different devices, and basic SEO to optimize websites for better search engine visibility. Furthermore, I specialize in JavaScript animation libraries like GSAP, Anime.js, and Lottie.js, enabling me to create dynamic and visually engaging web experiences.
+<h3>
+  I also have <strong>working knowledge of WordPress</strong>, including custom theme development and site customization. My skill set extends to <strong>responsive design principles</strong> and <strong>mobile-first development</strong>, ensuring seamless user 
+  experiences across different devices, and basic understanding of SEO to optimize websites for better search engine visibility. Furthermore, I specialize in <strong>JavaScript animation libraries</strong> like <strong>GSAP, Anime.js, and Lottie.js</strong>, enabling me 
+  to create dynamic and visually engaging web experiences.
+</h3>
 
-With a strong foundation in both frontend and backend technologies, I focus on building interactive, user-friendly, and performance-optimized web applications.</i></h3>
+<h3>
+  With a strong foundation in frontend technologies, I focus on building interactive, user-friendly, and performance-optimized web applications.
+</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -28,7 +37,7 @@ With a strong foundation in both frontend and backend technologies, I focus on b
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"            alt="express" width="40" height="40"/> </a> 
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 </p>
 
 <p align="center">
