@@ -1,5 +1,9 @@
 <h1 align="center">Hi Developers <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
-<h3 ><i>I'm a MERN stack web developer from India.The crossover between design and programming has always been of interested of me. I have a wide range of skills that include back-end development technologies (NodeJs, ExpressJs, Python), front-end technologies and frameworks ( ReactJs, Redux, HTML5, CSS3, Javascript, JQuery, Bootstrap3&4 ), database(MongoDB).</i></h3>
+<h3 ><i>I'm a frontend developer from India with a passion for the crossover between design and programming. I have expertise in frontend technologies such as HTML5, CSS3, JavaScript, jQuery, React.js, Redux, Bootstrap, Tailwind CSS, Sass/Less, and Gulp.js. Additionally, I have experience with backend development using Node.js, Express.js, and Python, along with database management in MongoDB.
+
+I also have working knowledge of WordPress, including custom theme development and site customization. My skill set extends to responsive design, ensuring seamless user experiences across different devices, and basic SEO to optimize websites for better search engine visibility. Furthermore, I specialize in JavaScript animation libraries like GSAP, Anime.js, and Lottie.js, enabling me to create dynamic and visually engaging web experiences.
+
+With a strong foundation in both frontend and backend technologies, I focus on building interactive, user-friendly, and performance-optimized web applications.</i></h3>
 
 
 ## 🙋‍♂️ About Me
